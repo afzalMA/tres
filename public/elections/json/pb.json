@@ -1,0 +1,234 @@
+{
+  "results": [
+  {
+  "dist_name": "AMRITSAR",
+  "total_seats": 11,
+  "count_seats": "11",
+  "inc_wonlead": 1,
+  "aap_wonlead": 9,
+  "sad_wonlead": 1,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BARNALA",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BATHINDA",
+  "total_seats": 6,
+  "count_seats": "6",
+  "inc_wonlead": 0,
+  "aap_wonlead": 6,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FARIDKOT",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FATEHGARH SAHIB",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FAZILKA",
+  "total_seats": 4,
+  "count_seats": "4",
+  "inc_wonlead": 1,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FIROZPUR",
+  "total_seats": 4,
+  "count_seats": "4",
+  "inc_wonlead": 0,
+  "aap_wonlead": 4,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "GURDASPUR",
+  "total_seats": 7,
+  "count_seats": "7",
+  "inc_wonlead": 5,
+  "aap_wonlead": 2,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "HOSHIARPUR",
+  "total_seats": 7,
+  "count_seats": "7",
+  "inc_wonlead": 1,
+  "aap_wonlead": 5,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "JALANDHAR",
+  "total_seats": 9,
+  "count_seats": "9",
+  "inc_wonlead": 5,
+  "aap_wonlead": 4,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KAPURTHALA",
+  "total_seats": 4,
+  "count_seats": "4",
+  "inc_wonlead": 3,
+  "aap_wonlead": 0,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 1
+  },
+  {
+  "dist_name": "LUDHIANA",
+  "total_seats": 14,
+  "count_seats": "14",
+  "inc_wonlead": 0,
+  "aap_wonlead": 13,
+  "sad_wonlead": 1,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MALERKOTLA",
+  "total_seats": 2,
+  "count_seats": "2",
+  "inc_wonlead": 0,
+  "aap_wonlead": 2,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MANSA",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MOGA",
+  "total_seats": 4,
+  "count_seats": "4",
+  "inc_wonlead": 0,
+  "aap_wonlead": 4,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MUKTSAR",
+  "total_seats": 4,
+  "count_seats": "4",
+  "inc_wonlead": 1,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "PATHANKOT",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 1,
+  "aap_wonlead": 1,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "PATIALA",
+  "total_seats": 8,
+  "count_seats": "8",
+  "inc_wonlead": 0,
+  "aap_wonlead": 8,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "RUPNAGAR",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SANGRUR",
+  "total_seats": 5,
+  "count_seats": "5",
+  "inc_wonlead": 0,
+  "aap_wonlead": 5,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SAS NAGAR (MOHALI)",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 3,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SBS NAGAR (NAWANSHAHR)",
+  "total_seats": 3,
+  "count_seats": "3",
+  "inc_wonlead": 0,
+  "aap_wonlead": 1,
+  "sad_wonlead": 2,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "TARN TARAN",
+  "total_seats": 4,
+  "count_seats": "4",
+  "inc_wonlead": 0,
+  "aap_wonlead": 4,
+  "sad_wonlead": 0,
+  "bjp_wonlead": 0,
+  "oth_wonlead": 0
+  }
+  ]
+  }

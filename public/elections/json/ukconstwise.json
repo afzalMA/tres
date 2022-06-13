@@ -1,0 +1,494 @@
+{
+  "results": [
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "ALMORA",
+  "candidate_name": "MANOJ TEWARI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "BADRINATH",
+  "candidate_name": "RAJENDRA SINGH BHANDARI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "BAGESHWAR (SC)",
+  "candidate_name": "CHANDAN RAM DASS",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "BAJPUR (SC)",
+  "candidate_name": "YASHPAL ARYA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "BHAGWANPUR (SC)",
+  "candidate_name": "MAMTA RAKESH",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "BHEL- RANIPUR",
+  "candidate_name": "ADESH CHAUHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "BHIMTAL",
+  "candidate_name": "RAM SINGH KAIRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "CHAKRATA (ST)",
+  "candidate_name": "PRITAM SINGH",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "CHAMPAWAT",
+  "candidate_name": "KAILASH GAHTORI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "CHAUBATTAKHAL",
+  "candidate_name": "SATPAL MAHARAJ",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DEHRADUN CANTONMENT",
+  "candidate_name": "SAVITA KAPOOR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DEOPRAYAG",
+  "candidate_name": "VINOD KANDARI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DHANOLTI",
+  "candidate_name": "PRITAM SINGH PANWAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DHARAMPUR",
+  "candidate_name": "VINOD CHAMOLI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DHARCHULA",
+  "candidate_name": "HARISH SINGH DHAMI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DIDIHAT",
+  "candidate_name": "VISHAN SINGH CHUFAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DOIWALA",
+  "candidate_name": "BRIJ BHUSHAN GAIROLA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "DWARAHAT",
+  "candidate_name": "MADAN SINGH BISHT",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "GADARPUR",
+  "candidate_name": "ARVIND PANDEY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "GANGOLIHAT (SC)",
+  "candidate_name": "FAKIR RAM TAMTA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "GANGOTRI",
+  "candidate_name": "SURESH CHAUHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "GHANSALI (SC)",
+  "candidate_name": "SHAKTI LAL SHAH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "HALDWANI",
+  "candidate_name": "SUMIT HRIDAYESH",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "HARIDWAR",
+  "candidate_name": "MADAN KAUSHIK",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "HARIDWAR RURAL",
+  "candidate_name": "ANUPAMA RAWAT",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "JAGESHWAR",
+  "candidate_name": "MOHAN SINGH MEHRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "JASPUR",
+  "candidate_name": "ADESH SINGH CHAUHAN",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "JHABREDA (SC)",
+  "candidate_name": "VIRENDRA JATI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "JWALAPUR (SC)",
+  "candidate_name": "RAVI BAHADUR",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KALADHUNGI",
+  "candidate_name": "BANSIDHAR BHAGAT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KAPKOT",
+  "candidate_name": "SURESH GARIYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KARNPRAYAG",
+  "candidate_name": "ANIL NAUTIYAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KASHIPUR",
+  "candidate_name": "TRILOK SINGH CHEEMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KEDARNATH",
+  "candidate_name": "SHAILA RANI RAWAT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KHANPUR",
+  "candidate_name": "UMESH KUMAR",
+  "party_name": "IND",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KHATIMA",
+  "candidate_name": "BHUVAN CHANDRA KAPRI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KICCHHA",
+  "candidate_name": "TILAK RAJ BEHAD",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "KOTDWAR",
+  "candidate_name": "RITU BHUSHAN KHANDURI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "LAKSAR",
+  "candidate_name": "SHAHZAD",
+  "party_name": "BSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "LALKUAN",
+  "candidate_name": "MOHAN SINGH BISHT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "LANSDOWNE",
+  "candidate_name": "DALEEP SINGH RAWAT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "LOHAGHAT",
+  "candidate_name": "KHUSHAL SINGH ADHIKARI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "MANGALORE",
+  "candidate_name": "SARWAT KAREEM ANSARI",
+  "party_name": "BSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "MUSSOORIE",
+  "candidate_name": "GANESH JOSHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "NAINITAL (SC)",
+  "candidate_name": "SARITA ARYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "NANAKMATTA (ST)",
+  "candidate_name": "GOPAL SINGH RANA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "NARENDRANAGAR",
+  "candidate_name": "SUBODH UNIYAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "PAURI (SC)",
+  "candidate_name": "RAJ KUMAR PORI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "PIRAN KALIYAR",
+  "candidate_name": "MOHD FURQAN AHMED",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "PITHORAGARH",
+  "candidate_name": "MAYUKH MEHER",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "PRATAP NAGAR",
+  "candidate_name": "VIKRAM SINGH NEGI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "PUROLA (SC)",
+  "candidate_name": "DURGESHWAR LAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RAIPUR",
+  "candidate_name": "UMESH SHARMA KAU",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RAJPUR ROAD (SC)",
+  "candidate_name": "KHAJAN DASS",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RAMNAGAR",
+  "candidate_name": "DIWAN SINGH BISHT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RANIKHET",
+  "candidate_name": "PRAMOD NAINWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RISHIKESH",
+  "candidate_name": "PREMCHAND AGGRAWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "ROORKEE",
+  "candidate_name": "PRADEEP BATRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RUDRAPRAYAG",
+  "candidate_name": "BHARAT SINGH CHAUDHARY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "RUDRAPUR",
+  "candidate_name": "SHIV ARORA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "SAHASPUR",
+  "candidate_name": "SAHDEV SINGH PUNDIR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "SALT",
+  "candidate_name": "MAHESH JEENA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "SITARGANJ",
+  "candidate_name": "SAURABH BAHUGUNA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "SOMESHWARA (SC)",
+  "candidate_name": "REKHA ARYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "SRINAGAR",
+  "candidate_name": "DHAN SINGH RAWAT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "TEHRI",
+  "candidate_name": "KISHORE UPDHYAY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "THARALI (SC)",
+  "candidate_name": "BHOPAL RAM TAMTA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "VIKAS NAGAR",
+  "candidate_name": "MUNNA SINGH CHAUHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "YAMKESHWAR",
+  "candidate_name": "RENU BISHT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTARAKHAND",
+  "const_name": "YAMUNOTRI",
+  "candidate_name": "SANJAY DOBHAL",
+  "party_name": "IND",
+  "status": "WON"
+  }
+  ]
+  }

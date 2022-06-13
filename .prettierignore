@@ -1,0 +1,8 @@
+/node_modules/**
+/dist/**
+/tests/unit/coverage/**
+/src/design/**
+/src/lang/**
+/src/assets/**
+/public/**
+/docs/**

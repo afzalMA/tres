@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-etvbharat-staging-224143-authRole",
+      "UnauthRoleArn": "arn:aws:iam::099392465975:role/amplify-etvbharat-staging-224143-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::099392465975:role/amplify-etvbharat-staging-224143-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-etvbharat-staging-224143-deployment",
+      "UnauthRoleName": "amplify-etvbharat-staging-224143-unauthRole",
+      "StackName": "amplify-etvbharat-staging-224143",
+      "StackId": "arn:aws:cloudformation:ap-south-1:099392465975:stack/amplify-etvbharat-staging-224143/4647b780-4700-11ec-8383-0237e8ebd82c",
+      "AmplifyAppId": "di4be0d1dn8ey"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "di4be0d1dn8ey",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

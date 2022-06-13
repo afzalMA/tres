@@ -1,0 +1,823 @@
+{
+  "results": [
+  {
+  "state_name": "PUNJAB",
+  "const_name": "ABOHAR",
+  "candidate_name": "SANDEEP JAKHAR",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "ADAMPUR",
+  "candidate_name": "SUKHWINDER SINGH KOTLI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AJNALA",
+  "candidate_name": "KULDEEP SINGH DHALIWAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMARGARH",
+  "candidate_name": "JASWANT SINGH GAJJANMAJRA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMLOH",
+  "candidate_name": "GURINDER SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMRITSAR CENTRAL",
+  "candidate_name": "AJAY GUPTA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMRITSAR EAST",
+  "candidate_name": "JEEVANJOT KAUR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMRITSAR NORTH",
+  "candidate_name": "KUNWAR VIJAY PRATAP",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMRITSAR SOUTH",
+  "candidate_name": "DR. INDERBIR SINGH NIJJAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "AMRITSAR WEST",
+  "candidate_name": "DR JASBIR SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "ANANDPUR SAHIB",
+  "candidate_name": "HARJOT SINGH BAINS",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "ATAM NAGAR",
+  "candidate_name": "KULWANT SINGH SIDHU",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "ATTARI",
+  "candidate_name": "ADC JASWINDER SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BABA BAKALA",
+  "candidate_name": "DALBIR SINGH TONG",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BALACHAUR",
+  "candidate_name": "SANTOSH KATARIA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BALLUANA",
+  "candidate_name": "AMANDEEP SINGH ‘GOLDY’ MUSAFIR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BANGA",
+  "candidate_name": "SUKHWINDER SINGH SUKHI",
+  "party_name": "SAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BARNALA",
+  "candidate_name": "GURMEET SINGH MEET HAYER",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BASSI PATHANA",
+  "candidate_name": "RUPINDER SINGH HAPPY",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BATALA",
+  "candidate_name": "SHERRY KALSI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BATHINDA RURAL",
+  "candidate_name": "AMIT RATTAN KOTFATTA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BATHINDA URBAN",
+  "candidate_name": "JAGROOP SINGH GILL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BHADAUR",
+  "candidate_name": "LABH SINGH UGOKE",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BHAGHA PURANA",
+  "candidate_name": "AMRITPAL SINGH SUKHANAND",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BHOA",
+  "candidate_name": "LAL CHAND KATARUCHAKK",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BHOLATH",
+  "candidate_name": "SUKHPAL SINGH KHAIRA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BHUCHO MANDI",
+  "candidate_name": "MASTER JAGSIR SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "BUDHLADA",
+  "candidate_name": "BUDHRAM SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "CHABBEWAL",
+  "candidate_name": "DR. RAJ KUMAR",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "CHAMKAUR SAHIB",
+  "candidate_name": "DR CHARANJIT SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DAKHA",
+  "candidate_name": "MANPREET SINGH AYALI",
+  "party_name": "SAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DASUYA",
+  "candidate_name": "KARAMVIR SINGH GHUMMAN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DERA BABA NANAK",
+  "candidate_name": "SUKHJINDER SINGH RANDHAWA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DERA BASSI",
+  "candidate_name": "KULJIT SINGH RANDHAWA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DHARAMKOT",
+  "candidate_name": "DEVINDER SINGH LADDI DHOS",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DHURI",
+  "candidate_name": "BHAGWANT SINGH MANN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DINA NAGAR",
+  "candidate_name": "ARUNA CHAUDHARY",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "DIRBA",
+  "candidate_name": "HARPAL SINGH CHEEMA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "FARIDKOT",
+  "candidate_name": "GURDIT SINGH SEKHON",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "FATEHGARH CHURIAN",
+  "candidate_name": "TRIPAT RAJINDER SINGH BAJWA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "FATEHGARH SAHIB",
+  "candidate_name": "LAKHBIR SINGH RAI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "FAZILKA",
+  "candidate_name": "NARINDERPAL SINGH SAWNA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "FIROZPUR CITY",
+  "candidate_name": "RANVEER SINGH BHULLAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "FIROZPUR RURAL",
+  "candidate_name": "RAJNISH DAHIYA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "GARHSHANKAR",
+  "candidate_name": "JAI KISHAN SINGH RORI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "GHANAUR",
+  "candidate_name": "GURLAL GHANOUR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "GIDDERBAHA",
+  "candidate_name": "AMARINDER SINGH RAJA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "GILL",
+  "candidate_name": "JIWAN SINGH SANGOWAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "GURDASPUR",
+  "candidate_name": "BRINDERMEET SINGH PAHRA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "GURU HAR SAHAI",
+  "candidate_name": "FAUJA SINGH SRARI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "HOSHIARPUR",
+  "candidate_name": "PANDIT BRAHM SHANKAR JIMPA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JAGRAON",
+  "candidate_name": "SARAVJIT KAUR MANUKE",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JAITU",
+  "candidate_name": "AMOLAK SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JALALABAD",
+  "candidate_name": "JAGDEEP 'GOLDY' KAMBOJ",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JALANDHAR CANTONMENT",
+  "candidate_name": "PARGAT SINGH",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JALANDHAR CENTRAL",
+  "candidate_name": "RAMAN ARORA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JALANDHAR NORTH",
+  "candidate_name": "AVTAR SINGH JUNIOR",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JALANDHAR WEST",
+  "candidate_name": "SHEETAL ANGURAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "JANDIALA GURU",
+  "candidate_name": "HARBHAJAN SINGH E.T.O",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KAPURTHALA",
+  "candidate_name": "RANA GURJIT SINGH",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KARTARPUR",
+  "candidate_name": "DCP BALKAR SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KHADOOR SAHIB",
+  "candidate_name": "MANJINDER SINGH LAPPURA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KHANNA",
+  "candidate_name": "TARUNPREET SINGH SONDH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KHARAR",
+  "candidate_name": "ANMOL GAGAN MANN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KHEM KARAN",
+  "candidate_name": "SARWAN SINGH DHUN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "KOTKAPURA",
+  "candidate_name": "KULTAR SINGH SANDHWAN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LAMBI",
+  "candidate_name": "GURMEET SINGH KHUDIAN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LEHRAGAGA",
+  "candidate_name": "BARINDER KUMAR GOYAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LUDHIANA CENTRAL",
+  "candidate_name": "ASHOK 'PAPPI' PRASHAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LUDHIANA EAST",
+  "candidate_name": "DALJIT SINGH GREWAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LUDHIANA NORTH",
+  "candidate_name": "MADAN LAL BAGGA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LUDHIANA SOUTH",
+  "candidate_name": "RAJINDER PAL KAUR CHHINA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "LUDHIANA WEST",
+  "candidate_name": "GURPREET SINGH GOGI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MAJITHA",
+  "candidate_name": "GANIEVE KAUR MAJITHIA",
+  "party_name": "SAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MALERKOTLA",
+  "candidate_name": "DR MOHD. ZAMIL-UR-REHMAN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MALOUT",
+  "candidate_name": "DR. BALJIT KAUR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MANSA",
+  "candidate_name": "DR VIJAY SINGLA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MAUR",
+  "candidate_name": "SUKHVIR MAISER KHANA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MEHAL KALAN",
+  "candidate_name": "KULWANT SINGH PANDORI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MOGA",
+  "candidate_name": "DR. AMANDEEP KAUR ARORA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MUKERIAN",
+  "candidate_name": "JANGILAL MAHAJAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "MUKTSAR",
+  "candidate_name": "JAGDEEP SINGH KAKA BRAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "NABHA",
+  "candidate_name": "GURDEV SINGH DEV MANN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "NAKODAR",
+  "candidate_name": "INDERJIT KAUR MANN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "NAWAN SHAHR",
+  "candidate_name": "NACHHATAR PAL",
+  "party_name": "BSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "NIHAL SINGH WALA",
+  "candidate_name": "MANJIT SINGH BILASPUR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PATHANKOT",
+  "candidate_name": "ASHWINI KUMAR SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PATIALA",
+  "candidate_name": "AJITPAL SINGH KOHLI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PATIALA RURAL",
+  "candidate_name": "DR. BALBIR SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PATTI",
+  "candidate_name": "LALJIT SINGH BHULLAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PAYAL",
+  "candidate_name": "MANWINDER SINGH GYASPURA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PHAGWARA",
+  "candidate_name": "BALWINDER SINGH DHALIWAL",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "PHILLAUR",
+  "candidate_name": "VIKRAMJIT SINGH CHAUDHARY",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "QADIAN",
+  "candidate_name": "PARTAP SINGH BAJWA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "RAIKOT",
+  "candidate_name": "HAKAM SINGH THEKEDAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "RAJASANSI",
+  "candidate_name": "SUKHWINDER SINGH SARKARIA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "RAJPURA",
+  "candidate_name": "NEENA MITTAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "RAMPURA PHUL",
+  "candidate_name": "BALKAR SINGH SIDHU",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "RUPNAGAR",
+  "candidate_name": "DINESH KUMAR CHADHA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "S.A.S. NAGAR",
+  "candidate_name": "KULWANT SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SAHNEWAL",
+  "candidate_name": "HARDEEP SINGH MUNDIAN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SAMANA",
+  "candidate_name": "CHETAN SINGH JOURAMAJRA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SAMRALA",
+  "candidate_name": "JAGTAR SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SANGRUR",
+  "candidate_name": "NARINDER KAUR BHARAJ",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SANOUR",
+  "candidate_name": "HARMEET SINGH PATHANMAJRAN",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SARDULGARH",
+  "candidate_name": "GURPREET SINGH BANAWALI",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SHAHKOT",
+  "candidate_name": "HARDEV SINGH LAADI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SHAM CHAURASI",
+  "candidate_name": "DR. RAVJOT SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SHUTRANA",
+  "candidate_name": "KULWANT SINGH BAZIGAR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SRI HARGOBINDPUR",
+  "candidate_name": "ADV AMARPAL SINGH",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SUJANPUR",
+  "candidate_name": "NARESH PURI",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SULTANPUR LODHI",
+  "candidate_name": "RANA INDER PARTAP SINGH",
+  "party_name": "IND",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "SUNAM",
+  "candidate_name": "AMAN ARORA",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "TALWANDI SABO",
+  "candidate_name": "BALJINDER KAUR",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "TARN TARAN",
+  "candidate_name": "KASHMIR SINGH SOHAL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "URMAR",
+  "candidate_name": "JASVIR SINGH RAJA GILL",
+  "party_name": "AAP",
+  "status": "WON"
+  },
+  {
+  "state_name": "PUNJAB",
+  "const_name": "ZIRA",
+  "candidate_name": "NARESH KATARIA",
+  "party_name": "AAP",
+  "status": "WON"
+  }
+  ]
+  }

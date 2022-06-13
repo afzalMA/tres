@@ -1,0 +1,90 @@
+{
+    "total_seats": "PUNJAB(117/117)",
+    "winning_seats": 117,
+    "results": [
+    {
+    "party_name": "INC",
+    "Seats Contested": 117,
+    "won": "18",
+    "lead": "0",
+    "total": 18
+    },
+    {
+    "party_name": "AAP",
+    "Seats Contested": 117,
+    "won": "92",
+    "lead": "0",
+    "total": 92
+    },
+    {
+    "party_name": "SAD+",
+    "Seats Contested": 117,
+    "won": "4",
+    "lead": "0",
+    "total": 4
+    },
+    {
+    "party_name": "BJP+",
+    "Seats Contested": 116,
+    "won": "2",
+    "lead": "0",
+    "total": 2
+    },
+    {
+    "party_name": "OTHER",
+    "Seats Contested": 117,
+    "won": "1",
+    "lead": "0",
+    "total": 1
+    },
+    {
+    "alliance_name": "INC",
+    "party_name": "INC",
+    "lead": "0",
+    "won": "18",
+    "total": 18
+    },
+    {
+    "alliance_name": "AAP",
+    "party_name": "AAP",
+    "lead": "0",
+    "won": "92",
+    "total": 92
+    },
+    {
+    "alliance_name": "SAD+",
+    "party_name": "SAD",
+    "lead": "0",
+    "won": "3",
+    "total": 3
+    },
+    {
+    "alliance_name": "SAD+",
+    "party_name": "BSP",
+    "lead": "0",
+    "won": "1",
+    "total": 1
+    },
+    {
+    "alliance_name": "BJP+",
+    "party_name": "PLC",
+    "lead": "0",
+    "won": "0",
+    "total": 0
+    },
+    {
+    "alliance_name": "BJP+",
+    "party_name": "BJP",
+    "lead": "0",
+    "won": "2",
+    "total": 2
+    },
+    {
+    "alliance_name": "BJP+",
+    "party_name": "SAD (SANYUKT)",
+    "lead": "0",
+    "won": "0",
+    "total": 0
+    }
+    ]
+    }

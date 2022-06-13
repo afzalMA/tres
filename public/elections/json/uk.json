@@ -1,0 +1,121 @@
+{
+  "results": [
+  {
+  "dist_name": "ALMORA",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 4,
+  "inc_wonlead": 2,
+  "aap_wonlead": 2,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BAGESHWAR",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 2,
+  "inc_wonlead": 0,
+  "aap_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "CHAMOLI",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "inc_wonlead": 1,
+  "aap_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "CHAMPAWAT",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 1,
+  "inc_wonlead": 1,
+  "aap_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "DEHRADUN",
+  "total_seats": 10,
+  "count_seats": "10",
+  "bjp_wonlead": 9,
+  "inc_wonlead": 1,
+  "aap_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "HARIDWAR",
+  "total_seats": 11,
+  "count_seats": "11",
+  "bjp_wonlead": 3,
+  "inc_wonlead": 5,
+  "aap_wonlead": 5,
+  "oth_wonlead": 3
+  },
+  {
+  "dist_name": "NAINITAL",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 5,
+  "inc_wonlead": 1,
+  "aap_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "PAURI GARHWAL",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 6,
+  "inc_wonlead": 0,
+  "aap_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "PITHORAGARH",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 2,
+  "inc_wonlead": 2,
+  "aap_wonlead": 2,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "RUDRAPRAYAG",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 2,
+  "inc_wonlead": 0,
+  "aap_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "TEHRI GARHWAL",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 5,
+  "inc_wonlead": 1,
+  "aap_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "UDHAM SINGH NAGAR",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 4,
+  "inc_wonlead": 5,
+  "aap_wonlead": 5,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "UTTARKASHI",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "inc_wonlead": 0,
+  "aap_wonlead": 0,
+  "oth_wonlead": 1
+  }
+  ]
+  }

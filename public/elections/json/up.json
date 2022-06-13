@@ -1,0 +1,754 @@
+{
+  "results": [
+  {
+  "dist_name": "AGRA",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 9,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "ALIGARH",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "AMBEDKAR NAGAR",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 0,
+  "sp_wonlead": 5,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "AMETHI",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "AMROHA",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "AURAIYA",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "AYODHYA",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "AZAMGARH",
+  "total_seats": 10,
+  "count_seats": "10",
+  "bjp_wonlead": 0,
+  "sp_wonlead": 10,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BADAUN",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BAGHPAT",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BAHRAICH",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 5,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BALLIA",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 1,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BALRAMPUR",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BANDA",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BARABANKI",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BAREILLY",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BASTI",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BHADOHI",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BIJNOR",
+  "total_seats": 8,
+  "count_seats": "8",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "BULANDSHAHAR",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "CHANDAULI",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "CHITRAKOOT",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "DEORIA",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "ETAH",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "ETAWAH",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FARRUKHABAD",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FATEHPUR",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "FIROZABAD",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "GAUTAM BUDDHA NAGAR",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "GHAZIABAD",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 5,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "GHAZIPUR",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 0,
+  "sp_wonlead": 7,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "GONDA",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "GORAKHPUR",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 9,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "HAMIRPUR",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "HAPUR",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "HARDOI",
+  "total_seats": 8,
+  "count_seats": "8",
+  "bjp_wonlead": 8,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "HATHRAS",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "JALAUN",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "JAUNPUR",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 5,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "JHANSI",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KANNAUJ",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KANPUR DEHAT",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KANPUR NAGAR",
+  "total_seats": 10,
+  "count_seats": "10",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KASGANJ",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KAUSHAMBI",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 0,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "KUSHINAGAR",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "LAKHIMPUR KHERI",
+  "total_seats": 8,
+  "count_seats": "8",
+  "bjp_wonlead": 8,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "LALITPUR",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "LUCKNOW",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 7,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MAHARAJGANJ",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 1,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MAHOBA",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MAINPURI",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MATHURA",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 5,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MAU",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MEERUT",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MIRZAPUR",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 5,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MORADABAD",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 5,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "MUZAFFARNAGAR",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "PILIBHIT",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "PRATAPGARH",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 1,
+  "oth_wonlead": 2
+  },
+  {
+  "dist_name": "PRAYAGRAJ",
+  "total_seats": 12,
+  "count_seats": "12",
+  "bjp_wonlead": 8,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "RAEBARELI",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 4,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "RAMPUR",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 2,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SAHARANPUR",
+  "total_seats": 7,
+  "count_seats": "7",
+  "bjp_wonlead": 5,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SAMBHAL",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SANT KABIR NAGAR",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SHAHJAHANPUR",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 6,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SHAMLI",
+  "total_seats": 3,
+  "count_seats": "3",
+  "bjp_wonlead": 0,
+  "sp_wonlead": 3,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SHRAVASTI",
+  "total_seats": 2,
+  "count_seats": "2",
+  "bjp_wonlead": 1,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SIDDHARTH NAGAR",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 3,
+  "sp_wonlead": 2,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SITAPUR",
+  "total_seats": 9,
+  "count_seats": "9",
+  "bjp_wonlead": 8,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SONBHADRA",
+  "total_seats": 4,
+  "count_seats": "4",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "SULTANPUR",
+  "total_seats": 5,
+  "count_seats": "5",
+  "bjp_wonlead": 4,
+  "sp_wonlead": 1,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "UNNAO",
+  "total_seats": 6,
+  "count_seats": "6",
+  "bjp_wonlead": 6,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  },
+  {
+  "dist_name": "VARANASI",
+  "total_seats": 8,
+  "count_seats": "8",
+  "bjp_wonlead": 8,
+  "sp_wonlead": 0,
+  "bsp_wonlead": 0,
+  "inc_wonlead": 0,
+  "oth_wonlead": 0
+  }
+  ]
+  }

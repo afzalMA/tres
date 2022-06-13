@@ -1,0 +1,2825 @@
+{
+  "results": [
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AGRA CANTT",
+  "candidate_name": "DR. G S DHARMESH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AGRA NORTH",
+  "candidate_name": "PURUSHOTTAM KHANDELWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AGRA RURAL",
+  "candidate_name": "BABY RANI MAURYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AGRA SOUTH",
+  "candidate_name": "YOGENDRA UPADHYAYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AJAGARA",
+  "candidate_name": "TRIBHUWAN RAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AKBARPUR",
+  "candidate_name": "RAM ACHAL RAJBHAR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AKBARPUR RANIA",
+  "candidate_name": "PRATIBHA SHUKLA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ALAPUR",
+  "candidate_name": "TRIBHUWAN DUTT",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ALIGANJ",
+  "candidate_name": "SATYAPAL SINGH RATHORE",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ALIGARH",
+  "candidate_name": "MUKTA RAJA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ALLAHABAD NORTH",
+  "candidate_name": "HARSHVARDHAN BAJPAI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ALLAHABAD SOUTH",
+  "candidate_name": "NAND GOPAL GUPTA 'NANDI'",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ALLAHABAD WEST",
+  "candidate_name": "SIDHARTH NATH SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AMANPUR",
+  "candidate_name": "HARIOM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AMETHI",
+  "candidate_name": "MAHARAJI PRAJAPATI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AMRITPUR",
+  "candidate_name": "SUSHIL KUMAR SHAKYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AMROHA",
+  "candidate_name": "MEHBOOB ALI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ANUPSHAHR",
+  "candidate_name": "SANJAY KUMAR SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AONLA",
+  "candidate_name": "DHARMPAL SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ARYA NAGAR",
+  "candidate_name": "AMITABH BAJPAI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ASMOLI",
+  "candidate_name": "PINKI SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ATRAULI",
+  "candidate_name": "SANDEEP KUMAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ATRAULIYA",
+  "candidate_name": "DR. SANGRAM",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AURAI",
+  "candidate_name": "DINANATH BHASHKAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AURAIYA",
+  "candidate_name": "GUDIYA KATHERIYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AYAH SHAH",
+  "candidate_name": "VIKAS GUPTA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AYODHYA",
+  "candidate_name": "VED PRAKASH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "AZAMGARH",
+  "candidate_name": "DURGA PRASAD YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BABAGANJ",
+  "candidate_name": "VINOD KUMAR",
+  "party_name": "JDL",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BABERU",
+  "candidate_name": "VISHAMBHAR SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BABINA",
+  "candidate_name": "RAJEEV SINGH ''PARICHHA''",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BACHHRAWAN",
+  "candidate_name": "SHYAM SUNDER",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BADAUN",
+  "candidate_name": "MAHESH CHANDRA GUPTA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BADLAPUR",
+  "candidate_name": "RAMESH CHANDRA MISHRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAGHPAT",
+  "candidate_name": "YOGESH DHAMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAH",
+  "candidate_name": "RANI PAKSHALIKA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAHERI",
+  "candidate_name": "ATAUR REHMAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAHRAICH",
+  "candidate_name": "ANUPMA JAISWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAIRIA",
+  "candidate_name": "JAI PRAKASH ANCHAL",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAKSHI KA TAALAAB",
+  "candidate_name": "YOGESH SHUKLA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BALAMAU",
+  "candidate_name": "RAMPAL VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BALDEV",
+  "candidate_name": "PURAN PRAKASH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BALHA",
+  "candidate_name": "SAROJ SONKAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BALLIA NAGAR",
+  "candidate_name": "DAYA SHANKAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BALRAMPUR",
+  "candidate_name": "PALTOO RAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BANDA",
+  "candidate_name": "PRAKASH DWIVEDI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BANGERMAU",
+  "candidate_name": "SHRIKANT KATIYAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BANSDIH",
+  "candidate_name": "KETAKEE SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BANSGAON",
+  "candidate_name": "DR. VIMLESH PASWAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BANSI",
+  "candidate_name": "JAI PRATAP SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARA",
+  "candidate_name": "VACHASPATI",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARABANKI",
+  "candidate_name": "DHARMRAJ SINGH YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARAULI",
+  "candidate_name": "THAKUR JAIVEER SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARAUT",
+  "candidate_name": "KRISHAN PAL MALIK",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAREILLY",
+  "candidate_name": "DR ARUN KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BAREILLY CANTONMENT",
+  "candidate_name": "SANJEEV AGARWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARHAJ",
+  "candidate_name": "DEEPAK KUMAR MISHR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARHAPUR",
+  "candidate_name": "KUNWAR SUSHANT SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BARKHERA",
+  "candidate_name": "JAYDRATH URF PRAVAKTANAND",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BASTI SADAR",
+  "candidate_name": "MAHENDRA NATH YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BEHAT",
+  "candidate_name": "UMAR ALI KHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BELTHARA ROAD",
+  "candidate_name": "HANSU RAM",
+  "party_name": "SBSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHADOHI",
+  "candidate_name": "ZAHID",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHAGWANT NAGAR",
+  "candidate_name": "ASHUTOSH SHUKLA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHARTHANA",
+  "candidate_name": "RAGHVENDRA KUMAR SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHATPAR RANI",
+  "candidate_name": "SABHAKUNWAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHINGA",
+  "candidate_name": "INDRANI DEVI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHOGNIPUR",
+  "candidate_name": "RAKESH SACHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHOJIPURA",
+  "candidate_name": "SHAZIL ISLAM ANSARI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHOJPUR",
+  "candidate_name": "NAGENDRA SINGH RATHOUR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BHONGAON",
+  "candidate_name": "RAM NARESH AGNIHOTRI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BIDHUNA",
+  "candidate_name": "REKHA VERMA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BIJNOR",
+  "candidate_name": "SUCHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BIKAPUR",
+  "candidate_name": "AMIT SINGH CHAUHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BILARI",
+  "candidate_name": "MOHAMMAD FAHEEM IRFAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BILASPUR",
+  "candidate_name": "BALDEV SINGH AULAKH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BILGRAM MALLANWAN",
+  "candidate_name": "ASHISH KUMAR SINGH 'ASHU'",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BILHAUR",
+  "candidate_name": "MOHIT SONKAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BILSI",
+  "candidate_name": "HARISH CHANDRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BINDKI",
+  "candidate_name": "JAY KUMAR SINGH JAIKI",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BISALPUR",
+  "candidate_name": "VIVEK KUMAR VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BISAULI",
+  "candidate_name": "ASHUTOSH MAURYA URF RAJU",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BISWAN",
+  "candidate_name": "NIRMAL VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BITHARI CHAINPUR",
+  "candidate_name": "DR. RAGHAVENDRA SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BITHOOR",
+  "candidate_name": "ABHIJEET SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BUDHANA",
+  "candidate_name": "RAJPAL SINGH BALIYAN",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "BULANDSHAHAR",
+  "candidate_name": "PRADEEP KUMAR CHAUDHARY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CAMPIERGANJ",
+  "candidate_name": "FATEH BAHADUR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHAKIYA",
+  "candidate_name": "KAILASH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHAMRAUA",
+  "candidate_name": "NASEER AHMAD KHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHANDAUSI",
+  "candidate_name": "GULAB DEBI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHANDPUR",
+  "candidate_name": "SWAMI OMVESH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHARKHARI",
+  "candidate_name": "BRIJBHUSHAN RAJPUT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHARTHAWAL",
+  "candidate_name": "PANKAJ KUMAR MALIK",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHAURI-CHAURA",
+  "candidate_name": "SARVAN KUMAR NISHAD",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHAYAL",
+  "candidate_name": "POOJA PAL",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHHANBEY",
+  "candidate_name": "RAHUL PRAKASH KOL",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHHAPRAULI",
+  "candidate_name": "AJAY KUMAR",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHHARRA",
+  "candidate_name": "RAVENDRA PAL SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHHATA",
+  "candidate_name": "LAXMI NARAYAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHHIBRAMAU",
+  "candidate_name": "ARCHANA PANDEY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHILLUPAR",
+  "candidate_name": "RAJESH TRIPATHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHITRAKOOT",
+  "candidate_name": "ANIL KUMAR ANIL PRADHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "CHUNAR",
+  "candidate_name": "ANURAG SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "COLONELGANJ",
+  "candidate_name": "AJAY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DADRAUL",
+  "candidate_name": "MANVENDRA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DADRI",
+  "candidate_name": "TEJPAL SINGH NAGAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DARIYABAD",
+  "candidate_name": "SATISH CHANDRA SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DATAGANJ",
+  "candidate_name": "RAJEEV SINGH URF BABBU BHAIYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DEBAI",
+  "candidate_name": "CHANDRAPAL SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DEOBAND",
+  "candidate_name": "BRIJESH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DEORIA",
+  "candidate_name": "SHALABH MANI TRIPATHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DHAMPUR",
+  "candidate_name": "ASHOK KUMAR RANA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DHANAURA",
+  "candidate_name": "RAJEEV KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DHANGHATA",
+  "candidate_name": "GANESH CHANDRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DHAULANA",
+  "candidate_name": "DHARMESH SINGH TOMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DHAURAHARA",
+  "candidate_name": "VINOD SHANKAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DIBIYAPUR",
+  "candidate_name": "PRADEEP KUMAR YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DIDARGANJ",
+  "candidate_name": "KAMALKANT",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DUDDHI",
+  "candidate_name": "RAMDULAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "DUMARIAGANJ",
+  "candidate_name": "SAIYADA KHATOON",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ETAH",
+  "candidate_name": "VIPIN KUMAR DAVID",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ETAWAH",
+  "candidate_name": "SARITA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ETMADPUR",
+  "candidate_name": "DR. DHARMPAL SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FARIDPUR",
+  "candidate_name": "PROF. SHYAM BIHARI LAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FARRUKHABAD",
+  "candidate_name": "MAJOR SUNIL DUTT DWIVEDI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FATEHABAD",
+  "candidate_name": "CHHOTEY LAL VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FATEHPUR",
+  "candidate_name": "CHANDRA PRAKASH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FATEHPURI SIKRI",
+  "candidate_name": "BABULAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FAZILNAGAR",
+  "candidate_name": "SURENDRA KUMAR KUSHWAHA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "FIROZABAD",
+  "candidate_name": "MANISH ASIJA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GAINSARI",
+  "candidate_name": "DR. SHIV PRATAP YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GANGOH",
+  "candidate_name": "KIRAT SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GARAUTHA",
+  "candidate_name": "JAWAHAR LAL RAJPUT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GARHMUKTESHWAR",
+  "candidate_name": "HARENDRA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GAURA",
+  "candidate_name": "PRABHAT KUMAR VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GAURIGANJ",
+  "candidate_name": "RAKESH PRATAP SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GHATAMPUR",
+  "candidate_name": "SAROJ",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GHAZIABAD",
+  "candidate_name": "ATUL GARG",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GHAZIPUR",
+  "candidate_name": "JAIKISHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GHORAWAL",
+  "candidate_name": "DR. ANIL KUMAR MAURYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GHOSI",
+  "candidate_name": "DARA SINGH CHAUHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GOLA GOKRANNATH",
+  "candidate_name": "ARVIND GIRI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GONDA",
+  "candidate_name": "PRATEEK BHUSHAN SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GOPALPUR",
+  "candidate_name": "NAFEES AHMAD",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GOPAMAU",
+  "candidate_name": "SHYAM PRAKASH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GORAKHPUR RURAL",
+  "candidate_name": "BIPIN SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GORAKHPUR URBAN",
+  "candidate_name": "ADITYANATH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GOSHAINGANJ",
+  "candidate_name": "ABHAY SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GOVERDHAN",
+  "candidate_name": "MEGHSHYAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GOVINDNAGAR",
+  "candidate_name": "SURENDRA MAITHANI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GUNNAOR",
+  "candidate_name": "RAMKHILADI SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "GYANPUR",
+  "candidate_name": "VIPUL DUBEY",
+  "party_name": "NISHAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HAIDERGARH",
+  "candidate_name": "DINESH RAWAT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HAMIRPUR",
+  "candidate_name": "DR. MANOJ KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HANDIA",
+  "candidate_name": "HAKIM LAL BIND",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HAPUR",
+  "candidate_name": "VIJAYPAL (AADHTI)",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HARCHANDPUR",
+  "candidate_name": "RAHUL RAJPOOT",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HARDOI",
+  "candidate_name": "NITIN AGARWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HARGAON",
+  "candidate_name": "SURESH RAHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HARRAIYA",
+  "candidate_name": "AJAY SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HASANPUR",
+  "candidate_name": "MAHENDRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HASTINAPUR",
+  "candidate_name": "DINESH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HATA",
+  "candidate_name": "MOHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HATHRAS",
+  "candidate_name": "ANJULA SINGH MAHAUR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "HUSSAINGANJ",
+  "candidate_name": "USHA MAURYA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "IGLAS",
+  "candidate_name": "RAJKUMAR SAHYOGI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ISAULI",
+  "candidate_name": "MOHD TAHIR KHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ITWA",
+  "candidate_name": "MATA PRASAD PANDEY",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JAGDISHPUR",
+  "candidate_name": "SURESH KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JAKHANIA",
+  "candidate_name": "BEDI",
+  "party_name": "SBSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JALALABAD",
+  "candidate_name": "HARI PRAKASH VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JALALPUR",
+  "candidate_name": "RAKESH PANDEY",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JALESAR",
+  "candidate_name": "SANJEEV KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JANGIPUR",
+  "candidate_name": "VIRENDRA KUMAR YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JASRANA",
+  "candidate_name": "SACHIN YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JASWANTNAGAR",
+  "candidate_name": "SHIVPAL SINGH YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JAUNPUR",
+  "candidate_name": "GIRISH CHANDRA YADAV",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JEHANABAD",
+  "candidate_name": "RAJENDRA SINGH PATEL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JEWAR",
+  "candidate_name": "DHIRENDRA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "JHANSI NAGAR",
+  "candidate_name": "RAVI SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KADIPUR",
+  "candidate_name": "RAJESH KUMAR GAUTAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KAIMGANJ",
+  "candidate_name": "DR. SURABHI",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KAIRANA",
+  "candidate_name": "NAHID HASAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KAISERGANJ",
+  "candidate_name": "ANAND KUMAR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KALPI",
+  "candidate_name": "VINOD CHATURVEDI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KALYANPUR",
+  "candidate_name": "NEELIMA KATIYAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KANNAUJ",
+  "candidate_name": "ASIM ARUN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KANPUR CANTONMENT",
+  "candidate_name": "MOHAMMAD HASAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KANTH",
+  "candidate_name": "KAMAL AKHTAR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KAPILVASTU",
+  "candidate_name": "SHYAMDHANI RAHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KAPTANGANJ",
+  "candidate_name": "KAVINDRA CHAUDHARY",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KARACHHANA",
+  "candidate_name": "PIYUSH RANJAN NISHAD",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KARHAL",
+  "candidate_name": "AKHILESH YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KASGANJ",
+  "candidate_name": "DEVENDRA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KASTA",
+  "candidate_name": "SAURABH SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KATARA",
+  "candidate_name": "VEER VIKRAM SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KATEHARI",
+  "candidate_name": "LALJI VERMA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KATRA BAZAR",
+  "candidate_name": "BAWAN SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KERAKAT",
+  "candidate_name": "TUFANI SAROJ",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHAAGA",
+  "candidate_name": "KRISHNA PASWAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHADDA",
+  "candidate_name": "VIVEKA NAND PANDEY",
+  "party_name": "NISHAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHAIR",
+  "candidate_name": "ANOOP SINGH URF ANOOP PRADHAN VALMEEKI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHAJANI",
+  "candidate_name": "SHRIRAM CHAUHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHALILABAD",
+  "candidate_name": "ANKUR TIWARI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHATAULI",
+  "candidate_name": "VIKRAM SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHERAGARH",
+  "candidate_name": "BHAGWAN SINGH KUSHWAHA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KHURJA",
+  "candidate_name": "MINAKSHI SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KIDWAI NAGAR",
+  "candidate_name": "MAHESH KUMAR TRIVEDI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KISHNI",
+  "candidate_name": "ENG. BRAJESH KATHERIYA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KITHORE",
+  "candidate_name": "SHAHID MANZOOR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KOIL",
+  "candidate_name": "ANIL PARASHAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KORAON",
+  "candidate_name": "RAJ MANI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KUNDA",
+  "candidate_name": "RAGHURAJ PRATAP SINGH",
+  "party_name": "JDL",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KUNDARKI",
+  "candidate_name": "ZIA UR REHMAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KURSI",
+  "candidate_name": "SAKENDRA PRATAP",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "KUSHINAGAR",
+  "candidate_name": "PANCHANAND PATHAK (P.N. PATHAK)",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LAHARPUR",
+  "candidate_name": "ANIL KUMAR VERMA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LAKHIMPUR",
+  "candidate_name": "YOGESH VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LALGANJ",
+  "candidate_name": "BECHAI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LALITPUR",
+  "candidate_name": "RAMRATAN KUSHWAHA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LAMBHUA",
+  "candidate_name": "SITARAM VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LONI",
+  "candidate_name": "NANDKISHOR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LUCKNOW CANTONMENT",
+  "candidate_name": "BRAJESH PATHAK",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LUCKNOW CENTRAL",
+  "candidate_name": "RAVIDAS MEHROTRA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LUCKNOW EAST",
+  "candidate_name": "ASHUTOSH TANDON 'GOPAL JI '",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LUCKNOW NORTH",
+  "candidate_name": "DR. NEERAJ BORA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "LUCKNOW WEST",
+  "candidate_name": "ARMAAN KHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MACHHLI SHAHAR",
+  "candidate_name": "DR. RAGINI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MADHAUGARH",
+  "candidate_name": "MOOL CHANDRA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MADHUBAN",
+  "candidate_name": "RAM BILASH CHAUHAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHADEVA",
+  "candidate_name": "DUDHRAM",
+  "party_name": "SBSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHARAJGANJ",
+  "candidate_name": "JAY MANGAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHARAJPUR",
+  "candidate_name": "SATISH MAHANA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHMOODABAD",
+  "candidate_name": "ASHA MAURYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHOBA",
+  "candidate_name": "RAKESH KUMAR GOSWAMI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHOLI",
+  "candidate_name": "SHASHANK TRIVEDI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAHSI",
+  "candidate_name": "SURESHWAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAINPURI",
+  "candidate_name": "JAYVEER SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAJHAWAN",
+  "candidate_name": "DR. VINOD KUMAR BIND",
+  "party_name": "NISHAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MALHANI",
+  "candidate_name": "LUCKY YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MALIHABAD",
+  "candidate_name": "JAI DEVI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MANIKPUR",
+  "candidate_name": "AVINASH CHANDRA DWIVEDI",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MANJHANPUR",
+  "candidate_name": "INDRAJEET SAROJ",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MANKAPUR",
+  "candidate_name": "RAMAPATI SHASTRI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MANT",
+  "candidate_name": "RAJESH CHAUDHARY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MARHARA",
+  "candidate_name": "VIRENDRA SINGH LODHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MARIHAN",
+  "candidate_name": "RAMA SHANKAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MARIYAHU",
+  "candidate_name": "DR R.K. PATEL",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MATERA",
+  "candidate_name": "MARIYA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MATHURA",
+  "candidate_name": "SHRIKANT SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAU",
+  "candidate_name": "ABBAS ANSARI",
+  "party_name": "SBSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MAURANIPUR",
+  "candidate_name": "RASHMI ARYA",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEERAPUR",
+  "candidate_name": "CHANDAN CHAUHAN",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEERUT",
+  "candidate_name": "RAFIQ ANSARI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEERUT CANTT",
+  "candidate_name": "AMIT AGARWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEERUT SOUTH",
+  "candidate_name": "DR. SOMENDRA SINGH TOMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEHNAGAR",
+  "candidate_name": "PUJA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEHNAUN",
+  "candidate_name": "VINAY KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEHRONI",
+  "candidate_name": "MANOHAR LAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MEJA",
+  "candidate_name": "SANDEEP SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MENHDAWAL",
+  "candidate_name": "ANIL KUMAR TRIPATHI",
+  "party_name": "NISHAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MILAK",
+  "candidate_name": "RAJBALA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MILKIPUR",
+  "candidate_name": "AWADHESH PRASAD",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MIRGANJ",
+  "candidate_name": "DR. D. C. VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MIRZAPUR",
+  "candidate_name": "RATNAKAR MISHRA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MISRIKH",
+  "candidate_name": "RAMKRISHNA BHARGAVA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MODINAGAR",
+  "candidate_name": "DR. MANJU SHIWACH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MOHAAN",
+  "candidate_name": "BRAJESH KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MOHAMMDABAD",
+  "candidate_name": "SUHAIB ALIAS MANNU ANSARI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MOHAMMDI",
+  "candidate_name": "LOKENDRA PRATAP SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MOHANLALGANJ",
+  "candidate_name": "AMRESH KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MORADABAD NAGAR",
+  "candidate_name": "RITESH KUMAR GUPTA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MORADABAD RURAL",
+  "candidate_name": "MOHD NASIR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MUBARAKPUR",
+  "candidate_name": "AKHILESH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MUGHALSARAI",
+  "candidate_name": "RAMESH JAISWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MUHAMMADABAD GOHNA",
+  "candidate_name": "RAJENDRA KUMAR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MUNGRA BADSHAHPUR",
+  "candidate_name": "PANKAJ",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MURADNAGAR",
+  "candidate_name": "AJIT PAL TYAGI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "MUZAFFARNAGAR",
+  "candidate_name": "KAPIL DEV AGARWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NAGINA",
+  "candidate_name": "MANOJ KUMAR PARAS",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NAJIBABAD",
+  "candidate_name": "TASLEEM AHMAD",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NANPARA",
+  "candidate_name": "RAM NIWAS VERMA",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NARAINI",
+  "candidate_name": "OMMANI VARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NAUGAWAN SADAT",
+  "candidate_name": "SAMARPAL SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NAUTANWA",
+  "candidate_name": "RISHI",
+  "party_name": "NISHAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NAWABGANJ",
+  "candidate_name": "DR. M. P. ARYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NEHTAUR",
+  "candidate_name": "OMKUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NIGHASAN",
+  "candidate_name": "SHASHANK VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NIZAMABAD",
+  "candidate_name": "ALAM BADI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NOIDA",
+  "candidate_name": "PANKAJ SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NUKUR",
+  "candidate_name": "MUKESH CHOUDHARY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "NURPUR",
+  "candidate_name": "RAM AVATAR SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "OBRA",
+  "candidate_name": "SANJEEV KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ORAI",
+  "candidate_name": "GAURI SHANKAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PADRAUNA",
+  "candidate_name": "MANISH KUMAR URF MANTU",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PALIA",
+  "candidate_name": "HARVINDER KUMAR SAHNI ALIAS ROMI SAHNI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PANIYARA",
+  "candidate_name": "GYANENDRA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PATHARDEVA",
+  "candidate_name": "SURYA PRATAP SHAHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PATIYALI",
+  "candidate_name": "NADIRA SULTAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PATTI",
+  "candidate_name": "RAM SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PAYAGPUR",
+  "candidate_name": "SUBHASH TRIPATHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PHAPHAMAU",
+  "candidate_name": "GURU PRASAD MAURYA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PHARENDA",
+  "candidate_name": "VIRENDRA CHAUDHARY",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PHEPHANA",
+  "candidate_name": "SANGRAM SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PHOOLPUR-PAWAI",
+  "candidate_name": "RAMAKANT",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PHULPUR",
+  "candidate_name": "PRAVEEN PATEL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PILIBHIT",
+  "candidate_name": "SANJAY SINGH GANGWAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PINDRA",
+  "candidate_name": "AWADHESH KUMAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PIPRAICH",
+  "candidate_name": "MAHENDRA PAL SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "POWAYAN",
+  "candidate_name": "CHETRAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PRATAPGARH",
+  "candidate_name": "RAJENDRA KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PRATAPPUR",
+  "candidate_name": "VIJAMA YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PURANPUR",
+  "candidate_name": "BABURAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PURQAZI",
+  "candidate_name": "ANIL KUMAR",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "PURWA",
+  "candidate_name": "ANIL KUMAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAEBARELI",
+  "candidate_name": "ADITI SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAM NAGAR",
+  "candidate_name": "FAREED MAHFOOZ KIDWAI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAMKOLA",
+  "candidate_name": "VINAY PRAKASH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAMPUR",
+  "candidate_name": "MOHAMMAD AZAM KHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAMPUR KARKHANA",
+  "candidate_name": "SURENDRA CHAURASIA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAMPUR KHAS",
+  "candidate_name": "ARADHANA MISHRA, MONA",
+  "party_name": "INC",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RAMPUR MANIHARAN",
+  "candidate_name": "DEVENDER KUMAR NIM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RANIGANJ",
+  "candidate_name": "RAKESH KUMAR VERMA ALIAS DR. R. K. VERMA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RASARA",
+  "candidate_name": "UMASHANKAR SINGH",
+  "party_name": "BSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RASULABAD",
+  "candidate_name": "POONAM SANKHWAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RATH",
+  "candidate_name": "MANISHA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ROBERTSGANJ",
+  "candidate_name": "BHUPESH CHAUBEY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ROHANIYA",
+  "candidate_name": "DR. SUNIL PATEL",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RUDAULI",
+  "candidate_name": "RAM CHANDRA YADAV",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RUDHAULI",
+  "candidate_name": "RAJENDRA PRASAD CHAUDHARY",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "RUDRAPUR",
+  "candidate_name": "JAI PRAKASH NISHAD",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SADABAD",
+  "candidate_name": "PRADEEP KUMAR SINGH",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SADAR",
+  "candidate_name": "RAJ PRASAD UPADHYAY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAFIPUR",
+  "candidate_name": "BAMBA LAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAGRI",
+  "candidate_name": "HRIDAY NARAYAN SINGH PATEL",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAHAJANWA",
+  "candidate_name": "PRADEEP SHUKLA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAHARANPUR",
+  "candidate_name": "ASHU MALIK",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAHARANPUR NAGAR",
+  "candidate_name": "RAJEEV GUMBER",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAHASWAN",
+  "candidate_name": "BRAJESH YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAHIBABAD",
+  "candidate_name": "SUNIL KUMAR SHARMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAIDPUR",
+  "candidate_name": "ANKIT BHARTI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAIYADRAJA",
+  "candidate_name": "SUSHIL SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAKALDIHA",
+  "candidate_name": "PRABHU NARAYAN YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SALEMPUR",
+  "candidate_name": "BIJAYLAXMI GAUTAM",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SALON",
+  "candidate_name": "ASHOK KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAMBHAL",
+  "candidate_name": "IQBAL MEHMOOD",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SANDI",
+  "candidate_name": "PRABHASH KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SANDILA",
+  "candidate_name": "ALKA SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SARDHANA",
+  "candidate_name": "ATUL PRADHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SARENI",
+  "candidate_name": "DEVENDRA PRATAP SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAROJINI NAGAR",
+  "candidate_name": "RAJESHWAR SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SAWAYAZPUR",
+  "candidate_name": "MADHAVENDRA PRATAP SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SEVATA",
+  "candidate_name": "GYAN TIWARI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SEWAPURI",
+  "candidate_name": "NEEL RATAN SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHAHABAD",
+  "candidate_name": "RAJNI TIWARI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHAHGANJ",
+  "candidate_name": "RAMESH",
+  "party_name": "NISHAD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHAHJAHANPUR",
+  "candidate_name": "SURESH KUMAR KHANNA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHAMLI",
+  "candidate_name": "PERSANN KUMAR",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHEKHUPUR",
+  "candidate_name": "HIMANSHU YADAV",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHIKARPUR",
+  "candidate_name": "ANIL KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHIKOHABAD",
+  "candidate_name": "MUKESH VERMA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHIVPUR",
+  "candidate_name": "ANIL RAJBHAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHOHRATGARH",
+  "candidate_name": "VINAY VERMA",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SHRAVASTI",
+  "candidate_name": "RAM FERAN",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIDHAULI",
+  "candidate_name": "MANISH RAWAT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIKANDERPUR",
+  "candidate_name": "ZIYAUDDIN RIZVI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIKANDRA",
+  "candidate_name": "AJIT SINGH PAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIKANDRA RAO",
+  "candidate_name": "BIRENDRA SINGH RANA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIKANDRABAD",
+  "candidate_name": "LAKSHMI RAJ",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIRATHU",
+  "candidate_name": "DR. PALLAVI PATEL",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIRSAGANJ",
+  "candidate_name": "SARVESH SINGH",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SISHAMAU",
+  "candidate_name": "HAJI IRFAN SOLANKI",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SISWA",
+  "candidate_name": "PREMSAGAR PATEL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SITAPUR",
+  "candidate_name": "RAKESH RATHOUR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SIWALKHAS",
+  "candidate_name": "GHULAM MOHAMMAD",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SORAON",
+  "candidate_name": "GEETA SHASTRI (PASI)",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SRI NAGAR",
+  "candidate_name": "MANJU TYAGI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SUAR",
+  "candidate_name": "MOHAMMAD ABDULLAH AZAM KHAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SULTANPUR",
+  "candidate_name": "VINOD SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "SYAANA",
+  "candidate_name": "DEVENDRA SINGH LODHI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TAMKUHI RAJ",
+  "candidate_name": "ASIM KUMAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TANDA",
+  "candidate_name": "RAM MURTI VERMA",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TARABGANJ",
+  "candidate_name": "PREM NRAYAN PANDEY",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "THAKURDWARA",
+  "candidate_name": "NAVAB JAN",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "THANA BHAWAN",
+  "candidate_name": "ASHRAF ALI KHAN",
+  "party_name": "RLD",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TILHAR",
+  "candidate_name": "SALONA KUSHWAHA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TILOI",
+  "candidate_name": "MAYANKESHWAR SHARAN SINGH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TINDWARI",
+  "candidate_name": "RAMKESH NISHAD",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TIRVA",
+  "candidate_name": "KAILASH RAJPUT",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TULSIPUR",
+  "candidate_name": "KAILASH NATH",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "TUNDLA",
+  "candidate_name": "PREM PAL SINGH DHANGAR",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "UNCHAHAR",
+  "candidate_name": "MANOJ KUMAR PANDEY",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "UNNAO",
+  "candidate_name": "PANKAJ GUPTA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "UTARAULA",
+  "candidate_name": "RAMPRATAP VERMA URF SHASHIKANT VERMA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "VARANASI CANTONMENT",
+  "candidate_name": "SAURABH SRIVASTAVA",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "VARANASI NORTH",
+  "candidate_name": "RAVINDRA JAISWAL",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "VARANASI SOUTH",
+  "candidate_name": "DR. NEELKANTH TIWARI",
+  "party_name": "BJP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "VISHWNATHGANJ",
+  "candidate_name": "JEET LAL",
+  "party_name": "AD(S)",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ZAFARABAD",
+  "candidate_name": "JAGDISH NARAYAN",
+  "party_name": "SBSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ZAHOORABAD",
+  "candidate_name": "OM PRAKASH RAJBHAR",
+  "party_name": "SBSP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ZAIDPUR",
+  "candidate_name": "GAURAV KUMAR",
+  "party_name": "SP",
+  "status": "WON"
+  },
+  {
+  "state_name": "UTTAR PRADESH",
+  "const_name": "ZAMANIA",
+  "candidate_name": "OM PRAKASH",
+  "party_name": "SP",
+  "status": "WON"
+  }
+  ]
+  }

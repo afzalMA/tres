@@ -1,0 +1,207 @@
+{
+    "totalresults": [
+    {
+    "state_id": 34,
+    "party_name": "BJP+",
+    "lead": "0",
+    "won": "273",
+    "total": 273
+    },
+    {
+    "state_id": 34,
+    "party_name": "SP+",
+    "lead": "0",
+    "won": "125",
+    "total": 125
+    },
+    {
+    "state_id": 34,
+    "party_name": "BSP",
+    "lead": "0",
+    "won": "1",
+    "total": 1
+    },
+    {
+    "state_id": 34,
+    "party_name": "INC",
+    "lead": "0",
+    "won": "2",
+    "total": 2
+    },
+    {
+    "state_id": 34,
+    "party_name": "OTHERS",
+    "lead": "0",
+    "won": "2",
+    "total": 2
+    },
+    {
+    "state_id": 34,
+    "total_seats": 403,
+    "won_seats": 403,
+    "lead_seats": 0,
+    "total_count": 403
+    },
+    {
+    "state_id": 28,
+    "party_name": "INC",
+    "lead": "0",
+    "won": "18",
+    "total": 18
+    },
+    {
+    "state_id": 28,
+    "party_name": "AAP",
+    "lead": "0",
+    "won": "92",
+    "total": 92
+    },
+    {
+    "state_id": 28,
+    "party_name": "SAD+",
+    "lead": "0",
+    "won": "4",
+    "total": 4
+    },
+    {
+    "state_id": 28,
+    "party_name": "BJP+",
+    "lead": "0",
+    "won": "2",
+    "total": 2
+    },
+    {
+    "state_id": 28,
+    "party_name": "OTHERS",
+    "lead": "0",
+    "won": "1",
+    "total": 1
+    },
+    {
+    "state_id": 28,
+    "total_seats": 117,
+    "won_seats": 117,
+    "lead_seats": 0,
+    "total_count": 117
+    },
+    {
+    "state_id": 35,
+    "party_name": "BJP",
+    "lead": "0",
+    "won": "47",
+    "total": 47
+    },
+    {
+    "state_id": 35,
+    "party_name": "INC",
+    "lead": "0",
+    "won": "19",
+    "total": 19
+    },
+    {
+    "state_id": 35,
+    "party_name": "AAP",
+    "lead": "0",
+    "won": "0",
+    "total": 0
+    },
+    {
+    "state_id": 35,
+    "party_name": "OTHERS",
+    "lead": "0",
+    "won": "4",
+    "total": 4
+    },
+    {
+    "state_id": 35,
+    "total_seats": 70,
+    "won_seats": 70,
+    "lead_seats": 0,
+    "total_count": 70
+    },
+    {
+    "state_id": 11,
+    "party_name": "BJP",
+    "lead": "0",
+    "won": "20",
+    "total": 20
+    },
+    {
+    "state_id": 11,
+    "party_name": "INC+",
+    "lead": "0",
+    "won": "12",
+    "total": 12
+    },
+    {
+    "state_id": 11,
+    "party_name": "TMC+",
+    "lead": "0",
+    "won": "2",
+    "total": 2
+    },
+    {
+    "state_id": 11,
+    "party_name": "AAP",
+    "lead": "0",
+    "won": "2",
+    "total": 2
+    },
+    {
+    "state_id": 11,
+    "party_name": "OTHERS",
+    "lead": "0",
+    "won": "4",
+    "total": 4
+    },
+    {
+    "state_id": 11,
+    "total_seats": 40,
+    "won_seats": 40,
+    "lead_seats": 0,
+    "total_count": 40
+    },
+    {
+    "state_id": 22,
+    "party_name": "BJP",
+    "lead": "2",
+    "won": "30",
+    "total": 32
+    },
+    {
+    "state_id": 22,
+    "party_name": "INC+",
+    "lead": "0",
+    "won": "5",
+    "total": 5
+    },
+    {
+    "state_id": 22,
+    "party_name": "NPP",
+    "lead": "1",
+    "won": "6",
+    "total": 7
+    },
+    {
+    "state_id": 22,
+    "party_name": "JDU",
+    "lead": "0",
+    "won": "6",
+    "total": 6
+    },
+    {
+    "state_id": 22,
+    "party_name": "OTHERS",
+    "lead": "0",
+    "won": "10",
+    "total": 10
+    },
+    {
+    "state_id": 22,
+    "total_seats": 60,
+    "won_seats": 57,
+    "lead_seats": 3,
+    "total_count": 60
+    }
+    ]
+    }

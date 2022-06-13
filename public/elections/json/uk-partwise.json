@@ -1,0 +1,55 @@
+{
+    "total_seats": "UTTARAKHAND(70/70)",
+    "winning_seats": 70,
+    "results": [
+    {
+    "party_name": "BJP",
+    "Seats Contested": 70,
+    "won": "47",
+    "lead": "0",
+    "total": 47
+    },
+    {
+    "party_name": "INC",
+    "Seats Contested": 70,
+    "won": "19",
+    "lead": "0",
+    "total": 19
+    },
+    {
+    "party_name": "AAP",
+    "Seats Contested": 70,
+    "won": "0",
+    "lead": "0",
+    "total": 0
+    },
+    {
+    "party_name": "OTHER",
+    "Seats Contested": 70,
+    "won": "4",
+    "lead": "0",
+    "total": 4
+    },
+    {
+    "alliance_name": "BJP",
+    "party_name": "BJP",
+    "lead": "0",
+    "won": "47",
+    "total": 47
+    },
+    {
+    "alliance_name": "INC",
+    "party_name": "INC",
+    "lead": "0",
+    "won": "19",
+    "total": 19
+    },
+    {
+    "alliance_name": "AAP",
+    "party_name": "AAP",
+    "lead": "0",
+    "won": "0",
+    "total": 0
+    }
+    ]
+    }

@@ -1,0 +1,166 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "types": ["node", "webpack-env"],
+    "paths": {
+      "@/*": ["/*"],
+      "@": [
+        "/index.js",
+        "/index.json",
+        "/index.jsx",
+        "/index.scss",
+        "/index.css"
+      ],
+      "@pages/*": ["pages/*"],
+      "@pages": [
+        "pages/index.js",
+        "pages/index.json",
+        "pages/index.jsx",
+        "pages/index.scss",
+        "pages/index.css"
+      ],
+      "@i18n/*": ["i18n/*"],
+      "@i18n": [
+        "i18n/index.js",
+        "i18n/index.json",
+        "i18n/index.jsx",
+        "i18n/index.scss",
+        "i18n/index.css"
+      ],
+      "@services/*": ["services/*"],
+      "@api/*": ["services/api/*"],
+      "@api": [
+        "services/API/index.js",
+        "services/API/index.json",
+        "services/API/index.jsx",
+        "services/API/index.scss",
+        "services/API/index.css"
+      ],
+      "@layouts/*": ["layouts/*"],
+      "@layouts": [
+        "layouts/index.js",
+        "layouts/index.json",
+        "layouts/index.jsx",
+        "layouts/index.scss",
+        "layouts/index.css"
+      ],
+      "@components/*": ["components/*"],
+      "@components": [
+        "components/index.js",
+        "components/index.json",
+        "components/index.jsx",
+        "components/index.scss",
+        "components/index.css"
+      ],
+      "@hooks/*": ["hooks/*"],
+      "@hooks": [
+        "hooks/index.js",
+        "hooks/index.json",
+        "hooks/index.jsx",
+        "hooks/index.scss",
+        "hooks/index.css"
+      ],
+      "@modules/*": ["components/*"],
+      "@modules": [
+        "components/index.js",
+        "components/index.json",
+        "components/index.jsx",
+        "components/index.scss",
+        "components/index.css"
+      ],
+      "@context/*": ["context/*"],
+      "@context": [
+        "context/index.js",
+        "context/index.json",
+        "context/index.jsx",
+        "context/index.scss",
+        "context/index.css"
+      ],
+      "@assets/*": ["../public/assets/*"],
+      "@assets": [
+        "../public/assets/index.js",
+        "../public/assets/index.json",
+        "../public/assets/index.jsx",
+        "../public/assets/index.scss",
+        "../public/assets/index.css"
+      ],
+      "@utils/*": ["utilities/*"],
+      "@utils": [
+        "utilities/index.js",
+        "utilities/index.json",
+        "utilities/index.jsx",
+        "utilities/index.scss",
+        "utilities/index.css"
+      ],
+      "@interfaces/*": ["interfaces/*"],
+      "@interfaces": [
+        "interfaces/index.js",
+        "interfaces/index.json",
+        "interfaces/index.jsx",
+        "interfaces/index.scss",
+        "interfaces/index.css"
+      ],
+      "@media/*": ["media/*"],
+      "@media": [
+        "media/index.js",
+        "media/index.json",
+        "media/index.jsx",
+        "media/index.scss",
+        "media/index.css"
+      ],
+      "@styles/*": ["styles/*"]
+    }
+  },
+  "include": [
+    "next-env.d.js",
+    "**/*.js",
+    "**/*.jsx",
+    "tailwind.config.js",
+    "postcss.config.js",
+    "src/pages/[language]/[state]/[...slug]/index.js",
+    "server.js",
+    "src/pages/[state]/[...slug]/index.js",
+    "src/utilities/UserStorage.js",
+    "src/utilities/ToastHelper.js",
+    "src/utilities/LocalStorageWorker.js",
+    "src/utilities/Helpers.js",
+    "src/utilities/GoogleTagManager.js",
+    "src/utilities/ComScore.js",
+    "src/utilities/Constants.js",
+    "src/interfaces/API.js",
+    "src/services/api/Video.js",
+    "src/services/api/User.js",
+    "src/services/api/CatalogList.js",
+    "src/services/api/Catalog.js",
+    "src/services/api/APIEnum.js",
+    "src/services/api/API.js",
+    "src/media/index.js",
+    "src/i18n/strings.js",
+    "src/i18n/types.js",
+    "src/i18n/getInitialLocale.js",
+    "src/i18n/config.js",
+    "src/pages/[state]/index.js",
+    "src/pages/api/hello.js",
+    "src/pages/english/termsOfService.js",
+    "src/pages/english/privacyPolicy.js",
+    "src/pages/english/contactUs.js",
+    "src/pages/english/aboutUs.js",
+    "src/pages/_app.js",
+    "src/pages/_document.js",
+    "src/pages/index.js",
+    "src/pages/robots.txt.js"
+  ],
+  "exclude": ["node_modules"]
+}

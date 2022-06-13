@@ -1,0 +1,104 @@
+{
+  "total_seats": "UTTAR PRADESH(403/403)",
+  "winning_seats": 403,
+  "results": [
+  {
+  "party_name": "BJP+",
+  "Seats Contested": 403,
+  "won": "273",
+  "lead": "0",
+  "total": 273
+  },
+  {
+  "party_name": "SP+",
+  "Seats Contested": 401,
+  "won": "125",
+  "lead": "0",
+  "total": 125
+  },
+  {
+  "party_name": "BSP",
+  "Seats Contested": 403,
+  "won": "1",
+  "lead": "0",
+  "total": 1
+  },
+  {
+  "party_name": "INC",
+  "Seats Contested": 399,
+  "won": "2",
+  "lead": "0",
+  "total": 2
+  },
+  {
+  "party_name": "OTHER",
+  "Seats Contested": 401,
+  "won": "2",
+  "lead": "0",
+  "total": 2
+  },
+  {
+  "alliance_name": "BJP+",
+  "party_name": "AD(S)",
+  "lead": "0",
+  "won": "12",
+  "total": 12
+  },
+  {
+  "alliance_name": "BJP+",
+  "party_name": "BJP",
+  "lead": "0",
+  "won": "255",
+  "total": 255
+  },
+  {
+  "alliance_name": "BJP+",
+  "party_name": "NISHAD",
+  "lead": "0",
+  "won": "6",
+  "total": 6
+  },
+  {
+  "alliance_name": "SP+",
+  "party_name": "SP",
+  "lead": "0",
+  "won": "111",
+  "total": 111
+  },
+  {
+  "alliance_name": "SP+",
+  "party_name": "AD (K)",
+  "lead": "0",
+  "won": "0",
+  "total": 0
+  },
+  {
+  "alliance_name": "SP+",
+  "party_name": "SBSP",
+  "lead": "0",
+  "won": "6",
+  "total": 6
+  },
+  {
+  "alliance_name": "SP+",
+  "party_name": "RLD",
+  "lead": "0",
+  "won": "8",
+  "total": 8
+  },
+  {
+  "alliance_name": "BSP",
+  "party_name": "BSP",
+  "lead": "0",
+  "won": "1",
+  "total": 1
+  },
+  {
+  "alliance_name": "INC",
+  "party_name": "INC",
+  "lead": "0",
+  "won": "2",
+  "total": 2
+  }
+  ]
+  }

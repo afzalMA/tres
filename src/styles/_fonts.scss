@@ -1,0 +1,89 @@
+$font-stack: 'Helvetica, Arial, sans-serif';
+$languages: (
+  'en': 'english',
+  'mr': 'marathi',
+  'pan': 'punjabi',
+  'ur': 'urdu',
+);
+
+$languages1: (
+  'ml': 'malayalam',
+  'ta': 'tamil',
+  'hi': 'hindi',
+  'bn': 'bengali',
+  'gu': 'gujarati',
+  'kn': 'kannada',
+  'or': 'oriya',
+  'te': 'telugu',
+);
+
+$languages2: (
+  'asm': 'assamese',
+);
+
+
+@function capitalize($string) {
+  @return to-upper-case(str-slice($string, 1, 1)) + str-slice($string, 2);
+}
+
+@each $key, $name in $languages {
+  $cap-name: capitalize($name);
+  @font-face {
+    font-family: 'Likhith' + $cap-name;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local('Likhith' + $cap-name), local('Likhith-' + $cap-name),
+      url('https://etvbharatimages.akamaized.net/etvbharat/static/assets/fonts/' + $cap-name + '/' + $name + '.woff2')
+        format('woff2'),
+      url('https://etvbharatimages.akamaized.net/etvbharat/static/assets/fonts/' + $cap-name + '/' + $name + '.woff')
+        format('woff'),
+      url('https://etvbharatimages.akamaized.net/etvbharat/static/assets/fonts/' + $cap-name + '/' + $name + '.ttf')
+        format('truetype');
+  }
+
+  html[lang='#{$key}'],
+  html[lang='#{$key}'] body {
+    font-family: 'Likhith' + $cap-name, unquote($font-stack);
+  }
+}
+
+@each $key, $name in $languages1 {
+  $cap-name: capitalize($name);
+  @font-face {
+    font-family: 'Noto Sans ' + $cap-name;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local('Noto Sans ' + $cap-name), local('Noto Sans -' + $cap-name),
+      url('https://etvbharatimages.akamaized.net/etvbharat/static/assets/fonts/' + $cap-name + '/' + $name + '.woff2')
+        format('woff2'),
+      url('https://etvbharatimages.akamaized.net/etvbharat/static/assets/fonts/' + $cap-name + '/' + $name + '.woff')
+        format('woff'),
+      url('https://etvbharatimages.akamaized.net/etvbharat/static/assets/fonts/' + $cap-name + '/' + $name + '.ttf')
+        format('truetype');
+  }
+
+  html[lang='#{$key}'],
+  html[lang='#{$key}'] body {
+    font-family: 'Noto Sans ' + $cap-name, unquote($font-stack);
+  }
+}
+
+@each $key, $name in $languages2 {
+  $cap-name: capitalize($name);
+  @font-face {
+    font-family: 'Likhith' + $cap-name;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://etvbharatimages.akamaized.net/etvbharat/static/o-0IIpQlx3QUlC5A4PNr5TRA.woff2')
+      format('woff2');
+  }
+
+  html[lang='#{$key}'],
+  html[lang='#{$key}'] body {
+    font-family: 'Likhith' + $cap-name, unquote($font-stack);
+  }
+}
+

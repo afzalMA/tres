@@ -1,0 +1,87 @@
+import {  useEffect, useRef, useState } from 'react';
+
+const Thumbnail = ({
+  thumbnail,
+  className,
+  type,
+  children,
+  lazy,
+  styleObj,
+}) => {
+
+  const [state, setState] = useState({
+    src: thumbnail.url,
+    errored: false,
+  });
+  const imgEl = useRef(null);
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      if (!!window.IntersectionObserver) {
+        let observer = new IntersectionObserver(
+          (entries, observer) => {
+            entries.forEach((entry) => {
+              if (entry.isIntersecting) {
+                entry.target.src = entry.target.dataset.src;
+                observer.unobserve(entry.target);
+              }
+            });
+          },
+          { rootMargin: '0px 0px 10px 0px' }
+        );
+        imgEl && observer.observe(imgEl.current);
+      } else {
+        imgEl && (imgEl.current.src = imgEl.current.dataset.src);
+      }
+    }
+  });
+  const onError = () => {
+    if (!state.errored) {
+      setState({
+        src:
+          'https://etvbharatimages.akamaized.net/etvbharat/static/assets/images/placeholder.png',
+        errored: true,
+      });
+    }
+  };
+
+  return (type === 'breaking_news' || type === 'news') && !state.src ? (
+    <img
+      ref={imgEl}
+      loading={(lazy === undefined || lazy === true)  ? 'lazy' : ''}
+      className="breaking_news"
+      alt="Breaking News"
+      height="100%"
+      width="auto"
+      src="https://etvbharatimages.akamaized.net/etvbharat/static/assets/images/placeholder.png"
+      data-src="https://etvbharatimages.akamaized.net/etvbharat/static/assets/images/breakingplate.jpg"
+      src={`/assets/images/${
+        (lazy === undefined || lazy === true)
+          ? 'placeholder'
+          : 'breakingplate'
+      }.png`}
+      style={styleObj}
+    />
+  ) : (
+    <>
+      <img
+        ref={imgEl}
+        loading={(lazy === undefined || lazy === true) ? 'lazy' : ''}
+        data-src={state.src}
+        height="100%"
+        width="auto"
+        src={
+          (lazy === undefined || lazy === true) 
+            ? 'https://etvbharatimages.akamaized.net/etvbharat/static/assets/images/placeholder.png'
+            : state.src
+        }
+        onError={onError}
+        className={`${className} ${type}`}
+        alt={thumbnail.alt_tags}
+        style={styleObj}
+      />
+    </>
+  );
+};
+
+export default Thumbnail;

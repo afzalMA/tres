@@ -1,0 +1,200 @@
+{
+    "results": [
+    {
+    "cand_pic": "AAP- SUNAM-AMAN ARORA.jpg",
+    "cand_name": "AMAN ARORA",
+    "party_name": "AAP",
+    "const_name": "SUNAM",
+    "status": "won"
+    },
+    {
+    "cand_pic": "CONG_ GIDDARBAHA- AMRINDER SINGH RAJA WARING.jpg",
+    "cand_name": "AMARINDER SINGH RAJA",
+    "party_name": "INC",
+    "const_name": "GIDDERBAHA",
+    "status": "won"
+    },
+    {
+    "cand_pic": "INDIPANDENT - NAWANSHERA - ANGAD SINGH SANI.jpg",
+    "cand_name": "ANGAD SINGH",
+    "party_name": "IND",
+    "const_name": "NAWAN SHAHR",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "BJP-PATHANKOT-ASHWANI SHARMA.jpg",
+    "cand_name": "ASHWINI KUMAR SHARMA",
+    "party_name": "BJP",
+    "const_name": "PATHANKOT",
+    "status": "won"
+    },
+    {
+    "cand_pic": "SSM- SAMRALA- BALBIR SINGH RAJEWAL.jpg",
+    "cand_name": "BALBIR SINGH RAJEWAL",
+    "party_name": "IND",
+    "const_name": "SAMRALA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "AAP- DHURI- BHAGWANT MAAN.jpg",
+    "cand_name": "BHAGWANT SINGH MANN",
+    "party_name": "AAP",
+    "const_name": "DHURI",
+    "status": "won"
+    },
+    {
+    "cand_pic": "PLC- PATIALA- CAPT AMRINDER SINGH.jpg",
+    "cand_name": "CAPTAIN AMRINDER SINGH",
+    "party_name": "PLC",
+    "const_name": "PATIALA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG - CHAMKOUR SAHIB AND BHADAUR - CHARANJEET SINGH CHANNI.jpg",
+    "cand_name": "CHARANJIT SINGH CHANNI",
+    "party_name": "INC",
+    "const_name": "BHADAUR",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG-KHANNA-GURKIRAT SINGH KOTALI.jpg",
+    "cand_name": "GURKIRAT SINGH KOTLI",
+    "party_name": "INC",
+    "const_name": "KHANNA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "AAP-DIRBHA-HARPAL SINGH CHIMA.jpg",
+    "cand_name": "HARPAL SINGH CHEEMA",
+    "party_name": "AAP",
+    "const_name": "DIRBA",
+    "status": "won"
+    },
+    {
+    "cand_pic": "SAD- BHULATH- BIBI JAGIR KAUR.jpg",
+    "cand_name": "JAGIR KAUR",
+    "party_name": "SAD",
+    "const_name": "BHOLATH",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "BSP - PHAGWARA-JASVIR SINGH GADDI.jpg",
+    "cand_name": "JASVIR SINGH GARHI",
+    "party_name": "BSP",
+    "const_name": "PHAGWARA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG-ZIRA- KULBERER SINGH ZIRA.jpg",
+    "cand_name": "KULBIR SINGH ZIRA",
+    "party_name": "INC",
+    "const_name": "ZIRA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "AAP - MOHALI - KULWANT SINGH.jpg",
+    "cand_name": "KULWANT SINGH SIDHU",
+    "party_name": "AAP",
+    "const_name": "ATAM NAGAR",
+    "status": "won"
+    },
+    {
+    "cand_pic": "INDDIPANDENT- MOUR MANDI - LAKHA SADANA.jpg",
+    "cand_name": "LAKHA SINGH SIDHANA",
+    "party_name": "IND",
+    "const_name": "MAUR",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG - MOGA - MALVIKA SOOD.jpg",
+    "cand_name": "MALVIKA SOOD",
+    "party_name": "INC",
+    "const_name": "MOGA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG- BATHINDA CITY- MANPREET SINGH BADAL.jpg",
+    "cand_name": "MANPREET SINGH BADAL",
+    "party_name": "INC",
+    "const_name": "BATHINDA URBAN",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG- AMRITSAR EAST- NAVJOOT SINGH SIDDHU.jpg",
+    "cand_name": "NAVJOT SINGH SIDHU",
+    "party_name": "INC",
+    "const_name": "AMRITSAR EAST",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "SAD- LAMBI- PRKASH SINGH BADAL.jpg",
+    "cand_name": "PARKASH SINGH BADAL",
+    "party_name": "SAD",
+    "const_name": "LAMBI",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "SAD - GHNOUR- PREM SINGH CHANDUMAJARA.jpg",
+    "cand_name": "PREM SINGH CHANDUMAJRA",
+    "party_name": "SAD",
+    "const_name": "GHANAUR",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "INDIPANDENT - SULTANPUR LODHI-INDERPARTAP SINGH RANA.jpg",
+    "cand_name": "RANA INDER PARTAP SINGH",
+    "party_name": "IND",
+    "const_name": "SULTANPUR LODHI",
+    "status": "won"
+    },
+    {
+    "cand_pic": "SAD- KHADUR SAHIB- RANJIT SINGH BRAHMPURA.jpg",
+    "cand_name": "RANJIT SINGH BRAHMPURA",
+    "party_name": "SAD",
+    "const_name": "KHADOOR SAHIB",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG-MANSA-SHUBDIP SINGH URAF SIDHU MUSSAWALA.jpg",
+    "cand_name": "SHUBHDEEP SINGH (SIDHU MOOSEWALA)",
+    "party_name": "INC",
+    "const_name": "MANSA",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "LIP- ATAMNAGAR- SIMRANJEET SINGH BAINS.jpg",
+    "cand_name": "SIMARJEET SINGH BAINS",
+    "party_name": "LIP",
+    "const_name": "ATAM NAGAR",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "SAD (A) - AMARGAD- SIMRANJEET SINGH MAAN.jpg",
+    "cand_name": "SIMRANJIT SINGH MANN",
+    "party_name": "SAD (AMRITSAR)",
+    "const_name": "AMARGARH",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "SAD-JALALABAD- SUKHBIR SINGH BADAL.jpg",
+    "cand_name": "SUKHBIR SINGH BADAL",
+    "party_name": "SAD",
+    "const_name": "JALALABAD",
+    "status": "lost"
+    },
+    {
+    "cand_pic": "CONG-DERA BABA NANAK- SUKHJINDER SINGH RANDHAWA.jpg",
+    "cand_name": "SUKHJINDER SINGH RANDHAWA",
+    "party_name": "INC",
+    "const_name": "DERA BABA NANAK",
+    "status": "won"
+    },
+    {
+    "cand_pic": "SAD -KHEMKARAN - VIRSA SINGH.jpg",
+    "cand_name": "VIRSA SINGH VALTOHA",
+    "party_name": "SAD",
+    "const_name": "KHEM KARAN",
+    "status": "lost"
+    }
+    ]
+    }
