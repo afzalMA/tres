@@ -20,7 +20,7 @@ export const nextPageView = () => {
 
     if (typeof window !== 'undefined' && window['COMSCORE']) {
       window['COMSCORE'] &&
-        window['COMSCORE'].beacon({ c1: '2', c2: '20416623' });
+        window['COMSCORE'].beacon({ c1: '2'});
     }
   }, 200);
 };

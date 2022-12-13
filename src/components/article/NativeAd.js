@@ -9,18 +9,19 @@ const NativeAd = ({ index }) => {
     window.ads = window.ads || new Set();
     const ads = window.ads;
     if (window.googletag && googletag.apiReady) {
-      window['native_ad'] = googletag
-      .defineSlot(
-        '/175434344/Native_adunit',
-        ['fluid'],
-        'native_ad'
-      )
-      .addService(googletag.pubads());
-    googletag.enableServices();
-    googletag.cmd.push(function () {
-      googletag.display('native_ad');
-    });
-    window.ads.add('native_ad');
+      if (googletag.defineSlot('/175434344/Native_adunit', ['fluid'], 'native_ad') !== null) {
+        window['native_ad'] = googletag
+          .defineSlot(
+            '/175434344/Native_adunit',
+            ['fluid'],
+            'native_ad'
+          )?.addService(googletag.pubads());
+        googletag.enableServices();
+        googletag.cmd.push(function () {
+          googletag.display('native_ad');
+        });
+        window.ads.add('native_ad');
+      }
     }
    
 

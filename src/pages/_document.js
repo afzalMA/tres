@@ -54,7 +54,6 @@ export default class ETVDocument extends Document {
                            var _comscore = _comscore || [];
                             _comscore.push({
                                 c1: "2",
-                                c2: "20416623"
                             });`,
             }}
           ></script>
@@ -103,7 +102,7 @@ export default class ETVDocument extends Document {
           <noscript>
             <img
               style={{ height: 0, width: 0, visibility: 'hidden' }}
-              src="https://sb.scorecardresearch.com/p?c1=2&c2=20416623&cv=2.0&cj=1"
+              src="https://sb.scorecardresearch.com/p?c1=2&cv=2.0&cj=1"
               alt="sb"
             />
           </noscript>
